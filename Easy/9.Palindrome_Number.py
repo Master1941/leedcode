@@ -47,7 +47,6 @@ class Solution(object):
         while ( o > r ):
             r = r * 10 + o % 10
             o = int(o / 10)
-            print(f"{o} --> {r}")
         return (o == r) or (o == int(r/10))
 
 
