@@ -10,3 +10,4 @@
 |13| [Intersection of Two Linked Lists](https://leetcode.com/problems/roman-to-integer/description/) | [Python](./Easy/13.py) | _O( т )_| _O(1)_ ||
 |14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Python](./Easy/14.py) | _O(n log n)_| _O(1)_ ||
 |20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](./Easy/20.py) | _O(n)_| _O(n)_ ||
+|21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Python](./Easy/21.py) | _O(n + m)_| _O(1)_ ||
