@@ -21,6 +21,7 @@ class Solution(object):
     """
     https://leetcode.com/problems/palindrome-number/description/?source=submission-ac
     """
+    @timer
     def isPalindrome(self, x: int) -> bool:
         """Перевести число в строку и сравнить побуквенно."""
         string = str(x)
