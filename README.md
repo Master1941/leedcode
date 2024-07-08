@@ -15,9 +15,10 @@
 |26| [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./Easy/27.py) | _O( n )_| _O(1)_ ||
 
 
-## Medle level
+## Medium level
 |  #  | Title | Solution | Time | Space |
 | --- | ----- | -------- | ---- | ----- |
+|2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Python](./Medium/2.py) | _O( n )_| _O(n)_ ||
 
 ## Hard level
 |  #  | Title | Solution | Time | Space |
