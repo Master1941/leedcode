@@ -19,6 +19,7 @@
 |  #  | Title | Solution | Time | Space |
 | --- | ----- | -------- | ---- | ----- |
 |2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Python](./Medium/2.py) | _O( n )_| _O(n)_ ||
+|22| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Python](./Medium/22.py) | _O( 2^(2n) )_| _O( 2^(2n) )_ ||
 
 ## Hard level
 |  #  | Title | Solution | Time | Space |
