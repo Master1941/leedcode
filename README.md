@@ -20,7 +20,9 @@
 | --- | ----- | -------- | ---- | ----- |
 |2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Python](./Medium/2.py) | _O( n )_| _O(n)_ ||
 |22| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Python](./Medium/22.py) | _O( 2^(2n) )_| _O( 2^(2n) )_ ||
-|40| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Python](./Medium/40.py) | _O( -- )_| _O( -- )_ ||
+|40| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Python](./Medium/40.py) | _O( 2^n )_| _O( n )_ ||
+|76| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [Python](./Medium/76.py) | _O( n + m )_| _O(   )_ ||
+
 
 ## Hard level
 |  #  | Title | Solution | Time | Space |
