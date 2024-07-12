@@ -13,6 +13,7 @@
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Python](./Easy/21.py) | _O( n + m )_| _O(1)_ ||
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](./Easy/26.py) | _O( n )_| _O(1)_ ||
 |26| [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./Easy/27.py) | _O( n )_| _O(1)_ ||
+|66| [Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](./Easy/66.py) | _O( n )_| _O(n)_ ||
 
 
 ## Medium level
