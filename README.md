@@ -15,6 +15,7 @@
 |26| [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./Easy/27.py) | _O( n )_| _O( 1 )_ ||
 |66| [Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](./Easy/66.py) | _O( n )_| _O( n )_ ||
 |35| [Plus One](https://leetcode.com/problems/search-insert-position/submissions/1321853553/) | [Python](./Easy/35.py) | _O( n )_| _O( 1 )_ ||
+|28| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Python](./Easy/28.py) | _O( n )_| _O( 1 )_ ||
 
 ## Medium level
 |  #  | Title | Solution | Time | Space |
