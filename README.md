@@ -3,6 +3,7 @@
 **Pешение задачек с [leetcode.com](https://leetcode.com)**
 
 ## Easy level
+
 |  #  | Title | Solution | Time | Space |
 | --- | ----- | -------- | ---- | ----- |
 |9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/?source=submission-ac) | [Python](./Easy/9.py) | _O( n )_| _O( 1 )_ ||
@@ -16,8 +17,10 @@
 |66| [Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](./Easy/66.py) | _O( n )_| _O( n )_ ||
 |35| [Plus One](https://leetcode.com/problems/search-insert-position/submissions/1321853553/) | [Python](./Easy/35.py) | _O( n )_| _O( 1 )_ ||
 |28| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Python](./Easy/28.py) | _O( n )_| _O( 1 )_ ||
+|94| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./Easy/94.py) | _O( n^2 )_| _O( n^2 )_ ||
 
 ## Medium level
+
 |  #  | Title | Solution | Time | Space |
 | --- | ----- | -------- | ---- | ----- |
 |2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Python](./Medium/2.py) | _O( n )_| _O( n )_ ||
@@ -25,8 +28,8 @@
 |40| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Python](./Medium/40.py) | _O( 2^n )_| _O( n )_ ||
 |76| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [Python](./Medium/76.py) | _O( n + m )_| _O(   )_ ||
 
-
 ## Hard level
+
 |  #  | Title | Solution | Time | Space |
 | --- | ----- | -------- | ---- | ----- |
 |84| [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/solutions/5378360/video-explanation/?source=submission-ac) | [Python](./Hard/84.py) | _O( n^2 )_| _O( n )_ |
