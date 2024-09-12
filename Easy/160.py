@@ -36,19 +36,19 @@ def create_linked_list(
         current_a.next = current_b.next = ListNode(listB[i])
         current_a = current_b = current_b.next
 
-    return head_a, head_b
+    return [head_a, head_b]
 
 
 if __name__ == "__main__":
     sol = Solution()
 
     intersectVal = 8
-    listA = [4, 1, 4, 8, 4, 5]
-    listB = [5, 6, 1, 4, 8, 4, 5]
+    list_A = [4, 1, 4, 8, 4, 5]
+    list_B = [5, 6, 1, 4, 8, 4, 5]
     skipA = 2
     skipB = 3
 
-    listA, listB = create_linked_list(listA, listB, skipA, skipB)
+    listA, listB = create_linked_list(list_A, list_B, skipA, skipB)
 
     # tail = ListNode(777, ListNode(88, ListNode(999)))
     # listA = ListNode(1, ListNode(2, ListNode(3, ListNode(4, tail))))

@@ -7,7 +7,6 @@
 |  #  | Title | Solution | Time | Space |
 | --- | ----- | -------- | ---- | ----- |
 |9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/?source=submission-ac) | [Python](./Easy/9.py) | _O( n )_| _O( 1 )_ ||
-
 |13| [Intersection of Two Linked Lists](https://leetcode.com/problems/roman-to-integer/description/) | [Python](./Easy/13.py) | _O( т )_| _O( 1 )_ ||
 |14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Python](./Easy/14.py) | _O( n log n )_| _O( 1 )_ ||
 |20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](./Easy/20.py) | _O( n )_| _O( n )_ ||
@@ -18,7 +17,7 @@
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1321853553/) | [Python](./Easy/35.py) | _O( n )_| _O( 1 )_ ||
 |66| [Plus One](https://leetcode.com/problems/plus-one/description/) | [Python](./Easy/66.py) | _O( n )_| _O( n )_ ||
 |94| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./Easy/94.py) | _O( n^2 )_| _O( n^2 )_ ||
-|104| [Binary Tree Inorder Traversal](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./Easy/104.py) | _O( n^2 )_| _O( 1 )_ ||
+|104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./Easy/104.py) | _O( n^2 )_| _O( 1 )_ ||
 |136| [Single Number](https://leetcode.com/problems/single-number/) | [Python](./Easy/136.py) | _O( n )_| _O( 1 )_ ||
 |160| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Python](./Easy/160.py) | _O( n + m )_| _O( 1 )_ ||
 |168| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Python](./Easy/168.py) | _O( n )_| _O( 1 )_ ||
