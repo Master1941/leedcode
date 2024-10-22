@@ -42,7 +42,6 @@ class Solution:
                 f2 = head2.val
             else:
                 f2 = 101
-
             if f != head.val and head.val != f2:
                 current.next = head
                 current = current.next
@@ -54,12 +53,12 @@ class Solution:
 
 def create_linked_list(listA: list) -> ListNode:
     """Генератор связных списков."""
-    head_a = ListNode(listA[0])
+    head_a = ListNode()
     current_a = head_a
-    for i in range(1, len(listA)):
+    for i in range(len(listA)):
         current_a.next = ListNode(listA[i])
         current_a = current_a.next
-    return head_a
+    return head_a.next
 
 
 if __name__ == "__main__":
