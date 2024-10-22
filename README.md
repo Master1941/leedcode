@@ -25,14 +25,15 @@
 
 ## Medium level
 
-| #   | Title                                                                                                                     | Solution                  | Time          | Space         |
-| --- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------- | ------------- |
-| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)                                             | [Python](./Medium/2.py)   | _O( n )_      | _O( n )_      |  |
-| 22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                                   | [Python](./Medium/22.py)  | _O( 2^(2n) )_ | _O( 2^(2n) )_ |  |
-| 40  | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)                                       | [Python](./Medium/40.py)  | _O( 2^n )_    | _O( n )_      |  |
-| 76  | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)                           | [Python](./Medium/76.py)  | _O( n + m )_  | _O( 1 )_      |  |
-| 82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Python](./Medium/82.py)  | _O( n )_      | _O( 1 )_      |  |
-| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)                           | [Python](./Medium/152.py) | _O( n )_      | _O( 1 )_      |  |
+| #   | Title                                                                                                                     | Solution                  | Time           | Space         |
+| --- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------- | ------------- |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)                                             | [Python](./Medium/2.py)   | _O( n )_       | _O( n )_      |  |
+| 22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                                   | [Python](./Medium/22.py)  | _O( 2^(2n) )_  | _O( 2^(2n) )_ |  |
+| 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                           | [Python](./Medium/33.py)  | _O( n log n )_ | _O( 1 )_      |  |
+| 40  | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)                                       | [Python](./Medium/40.py)  | _O( 2^n )_     | _O( n )_      |  |
+| 76  | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)                           | [Python](./Medium/76.py)  | _O( n + m )_   | _O( 1 )_      |  |
+| 82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Python](./Medium/82.py)  | _O( n )_       | _O( 1 )_      |  |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)                           | [Python](./Medium/152.py) | _O( n )_       | _O( 1 )_      |  |
 
 ## Hard level
 
