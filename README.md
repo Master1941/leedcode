@@ -37,6 +37,7 @@
 
 ## Hard level
 
-| #   | Title                                                                                                                                                    | Solution               | Time       | Space    |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------- | -------- |
-| 84  | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/solutions/5378360/video-explanation/?source=submission-ac) | [Python](./Hard/84.py) | _O( n^2 )_ | _O( n )_ |
+| #   | Title                                                                                                                                                    | Solution                  | Time        | Space    |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------- | -------- |
+| 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)                                                    | [Python](./Hard/4/4.py)   | O( log n )_ | _O( 1 )_ |
+| 84  | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/solutions/5378360/video-explanation/?source=submission-ac) | [Python](./Hard/84/84.py) | _O( n^2 )_  | _O( n )_ |
